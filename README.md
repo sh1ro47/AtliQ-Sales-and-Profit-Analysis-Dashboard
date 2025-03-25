@@ -46,8 +46,8 @@ This project involves analyzing and visualizing sales and profit data for **Atli
 ![Dashboard Overview](https://github.com/sh1ro47/AtliQ-Sales-and-Profit-Analysis-Dashboard/blob/main/img/Screenshot%202025-03-26%20004712.png)
 
 ### 🔹 Sales & Profit Analysis  
-![Sales & Profit Analysis](img/sales_profit_analysis.png)
-
+![Sales & Profit Analysis](https://github.com/sh1ro47/AtliQ-Sales-and-Profit-Analysis-Dashboard/blob/main/img/Screenshot%202025-03-26%20004836.png)(https://github.com/sh1ro47/AtliQ-Sales-and-Profit-Analysis-Dashboard/blob/main/img/Screenshot%202025-03-26%20004843.png)
+ 
 
 ## 🤝 Contribution
 Feel free to fork this repository, raise issues, and submit pull requests to enhance this project further!
